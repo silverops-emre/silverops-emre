@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" width="640" height="140" role="img" aria-label="Claude Code usage stats">
+<defs><style>.mono{font-family:"SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;}</style></defs>
+<rect width="640" height="140" fill="#FBF7F4"/>
+<text x="24" y="34" class="mono" font-size="12" letter-spacing="3.5" fill="#B67A54">TOKEN COUNTER</text>
+<text x="22" y="82" class="mono" font-size="40" letter-spacing="0.5" fill="#B4551E">3,105,837,365</text>
+<rect x="24" y="96" width="360" height="1.4" fill="#C15F2D"/>
+<text x="24" y="120" class="mono" font-size="11.5" letter-spacing="0.5" fill="#C89C85">tokens processed &#183; Opus 4.8 94%</text>
+<text x="616" y="32" text-anchor="end" class="mono" font-size="10.5" letter-spacing="2" fill="#B67A54">PROMPTS</text>
+<text x="616" y="52" text-anchor="end" class="mono" font-size="15" fill="#B4551E">5,402</text>
+<text x="616" y="67" text-anchor="end" class="mono" font-size="10.5" letter-spacing="2" fill="#B67A54">ACTIVE DAYS</text>
+<text x="616" y="87" text-anchor="end" class="mono" font-size="15" fill="#B4551E">102 / 115  (89%)</text>
+<text x="616" y="102" text-anchor="end" class="mono" font-size="10.5" letter-spacing="2" fill="#B67A54">BUSIEST DAY</text>
+<text x="616" y="122" text-anchor="end" class="mono" font-size="15" fill="#B4551E">194 prompts</text>
+</svg>
